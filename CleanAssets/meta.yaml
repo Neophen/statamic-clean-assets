@@ -1,5 +1,5 @@
 name: 'Delete unused assets'
-version: '1.0'
+version: '1.0.1'
 description: 'Deletes all your unused assets'
 developer: 'Mykolas Mankevicius'
 developer_url: 'https://www.co-openhagen.com/'
