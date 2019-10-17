@@ -1,6 +1,6 @@
 <?php
 
-namespace Statamic\Addons\CleanAssets\Commands;
+namespace Statamic\Addons\CleanAssets;
 
 use Statamic\Extend\Command;
 
