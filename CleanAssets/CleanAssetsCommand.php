@@ -18,7 +18,7 @@ class CleanAssetsCommand extends Command
    *
    * @var string
    */
-  protected $description = 'Checks if all exisitng assets are being used in any content files, if not removes them';
+  protected $description = 'Checks if all existing assets are being used in any content files, if not removes them';
 
   private $contentFiles;
   private $removedAssets;

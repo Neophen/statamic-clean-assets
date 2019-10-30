@@ -8,7 +8,7 @@ Checks all your content files for each assets `url` or `id` if no content file u
 ## Installation
 
 1. Copy the "CleanAssets" folder contents to your Statamic `site/addons` directory
-2. Run `php please update:addons` to load the addon's dependencies.
+2. Run `php please update:addons` to load the addons dependencies.
 
 ## Usage
 
